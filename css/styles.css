@@ -1,0 +1,88 @@
+* { 
+    margin:0px;
+    box-sizing: border-box;
+}
+.left {
+    width: 40%;
+    height: 745px;
+    background-color:#7271FF;
+    float:left;
+}
+.right{
+    width:60%;
+    height: 745px;
+    background-color: #FFFFFF;
+    float: right;
+}
+
+.trivo{
+    height: 83px;
+    width: 125px;
+}
+.text1{
+    width: 486px;
+    height: 80px;
+    color: #FFFFFF;
+    margin-top: 117px;
+    margin-left: 125px;
+    font-size: 18px;
+}
+.view{
+    width: 482px;
+    height: 187px;
+}
+.diagram{
+    
+    width: 500px;
+    height: 265px;
+    margin-left: 120px;
+}
+
+.text2{
+    
+    margin-left: 200px;
+    margin-top: 150px;
+    
+    
+}
+.img{
+    margin-left: 40px;
+    vertical-align:middle;
+}
+.text3{
+    margin-left: 250px;
+    margin-top: 15px;
+    color: #949494;
+}
+.form{
+    margin-left: 250px;
+    margin-top:15px
+}
+.email{
+    margin-top: 15px;
+    margin-bottom: none;
+}
+.password{
+    margin-top:15px;
+}
+.input{
+    margin-left: 0px; 
+    border:1px solid #949494;
+    width: 250px;
+    height: 35px;
+}
+.img2{
+    width: 260px;
+    height: 69px;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+.img3{
+    width: 250px;
+    height: 40px;
+    margin-left: 250px;
+}
+p{
+    margin-top: 15px;
+    margin-left: 250px;
+}
